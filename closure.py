@@ -3,5 +3,7 @@ def prn(name):
         print(f'Hi, {name}')
     return inner
 
-f = prn('Alex')
-f()
+#
+#
+# f = prn('Alex')
+# f()
